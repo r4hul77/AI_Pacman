@@ -1,0 +1,8 @@
+Name:Rahul Harsha Cheppally
+ID:2669291
+
+The State used for question 6 and 5 is [(postion), food present in conner1,food present in conner2,...]
+The State function is dependent upon the goalfuction as the agent reaches  one of the conners the boolean co-oresponding to that conner changes to 0
+Hence the Heuristic for the question 6 depends upon the isGoalState(state) function to runprefectly.But that is not the case in case of autograder as the autograder only calls for the Heuristic function the the astarsearch it self for the test case.If possible please find a way to run the conners with the astar function.
+
+The Tiemespent is 15Hrs.

@@ -1,0 +1,57 @@
+    global pointer
+    global grid
+    cost=[]
+    if pointer!=1:
+        if len(grid[0][0])!=walls.height and len(grid[0])!=walls.width:
+            pointer=1
+            grid=[]
+    if pointer==1:
+        for i in xrange(4):
+            grid.append(transverse(corners[i], corners[3], walls))'''
+    def transverse(p1,size,walls):
+        frontier=util.Queue()
+        cost=1
+        frontier.push((p1,cost))
+        Visted=[[0 for i in range(walls.height)]for j in range(walls.width)]
+        Map=[[999 for i in Visted[0]]for j in Visted]
+        Map[p1[0]][p1[1]]=0
+        Visted[p1[0]][p1[1]]=1
+        while not(frontier.isEmpty()):
+            state,cost=frontier.pop()
+            for x,y in [[1, 0],[0, 1],[-1, 0],[0, -1]]:
+                    nextx,nexty= x+state[0], y+state[1]
+                    Test1= ((0<nextx<size[0]+2)and(0<nexty<size[1]+2))
+                    if Test1:
+                        try:
+                            if (not(walls[nextx][nexty]))and Visted[nextx][nexty]==0:
+                                Visted[nextx][nexty]=1
+                                frontier.push(((nextx, nexty),cost+1))
+                                Map[nextx][nexty] = cost
+                        except IndexError:
+                            pass
+        global pointer
+        pointer=2
+        return Map
+    def truedistance(state,corners):
+
+        index=range(4)
+        cost=[]
+        for i in index:
+            c=grid[i][state[0][0]][state[0][1]] * state[i + 1]
+            list1=list(index)
+            list1.remove(i)
+            for j in list1:
+                c1 = grid[j][corners[i][0]][corners[i][1]] * state[j + 1]
+                list2=list(list1)
+                list2.remove(j)
+                for (k,l) in enumerate(list2):
+                    c2=grid[l][corners[j][0]][corners[j][1]] * state[l + 1]\
+                       +grid[list2[k-1]][corners[l][0]][corners[l][1]] * state[list2[k-1] + 1]
+                    cost.append(c+c1+c2)
+        print 'For state%r'%state
+        print 'H fun:%r'%(sum(cost)/len(cost))
+        raw_input('E')
+        return min(cost)
+
+
+

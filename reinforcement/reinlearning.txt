@@ -1,0 +1,1235 @@
+Beginning 0 episodes of Training
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1348
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1347
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1303
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1345
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1320
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -93
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1342
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1316
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1317
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1319
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1332
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1325
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1316
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1322
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1344
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1337
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1342
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1537
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1325
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1344
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -4
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1334
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1341
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1335
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1347
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1312
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1348
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1337
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1303
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1341
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1326
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1307
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1332
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 93
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1313
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1309
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1323
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1334
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1335
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1311
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1339
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1335
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -123
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1342
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 58
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 307
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1312
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1316
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1341
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1315
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1305
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1310
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -199
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 268
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1315
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1308
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1343
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1326
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1320
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1332
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1348
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1322
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1291
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1317
+Reinforcement Learning Status:
+	Completed 100 test episodes
+	Average Rewards over testing: 1210.74
+	Average Rewards for last 100 episodes: 1210.74
+	Episode took 23.17 seconds
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1342
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 226
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 307
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1337
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1318
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1308
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1522
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1337
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1322
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1312
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1322
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1334
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1311
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1323
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1318
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1337
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1320
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 287
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -171
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1320
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1332
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1322
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1322
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1332
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1314
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1347
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1530
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 293
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1348
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1307
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1349
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1341
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1339
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1335
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1334
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1314
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1295
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1320
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1323
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1289
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1342
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1335
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1310
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1345
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1317
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1337
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1343
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 24
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1319
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1315
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1325
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1325
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1308
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1322
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1334
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1347
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1520
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1337
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 21
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1334
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1310
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1304
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1315
+Reinforcement Learning Status:
+	Completed 200 test episodes
+	Average Rewards over testing: 1230.58
+	Average Rewards for last 100 episodes: 1250.42
+	Episode took 25.68 seconds
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1332
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1326
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1317
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1312
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1339
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1306
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -204
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1325
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1343
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1344
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1344
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1309
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1315
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1295
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1307
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1339
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1346
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1335
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1298
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1325
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1300
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -52
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1517
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1319
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1341
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1322
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1301
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 308
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1335
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1317
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1335
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -156
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1305
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1308
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1322
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1332
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1343
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1342
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1312
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1323
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1348
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1341
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1315
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1298
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1536
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1326
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1313
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1346
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1314
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 317
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1320
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1347
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1308
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1335
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1307
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -354
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1521
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1318
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1335
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1339
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1288
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1353
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 170
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1323
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1337
+Reinforcement Learning Status:
+	Completed 300 test episodes
+	Average Rewards over testing: 1228.33
+	Average Rewards for last 100 episodes: 1223.83
+	Episode took 25.24 seconds
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1314
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1301
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1284
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1320
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1339
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1317
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1315
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1322
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1311
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1346
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1311
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1313
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1341
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1325
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1319
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1342
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 47
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1309
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1309
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1322
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1322
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1335
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1316
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1335
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1500
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1304
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1346
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1311
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1313
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1337
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1341
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1309
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1320
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1536
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1337
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 228
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1312
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1326
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1323
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1309
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 261
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 271
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1337
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -337
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1332
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -160
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1503
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1320
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1318
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1507
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1320
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1332
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -87
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1335
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1284
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1312
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1323
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1733
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1313
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 315
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1337
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1335
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1545
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -280
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 29
+Reinforcement Learning Status:
+	Completed 400 test episodes
+	Average Rewards over testing: 1219.39
+	Average Rewards for last 100 episodes: 1192.58
+	Episode took 25.71 seconds
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -214
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1317
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1326
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1347
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1339
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1347
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1300
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1315
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1335
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1310
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1501
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1332
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1325
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1303
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1325
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1325
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1343
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 199
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1325
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1339
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1310
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1319
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1526
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1337
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1339
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1342
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1534
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1325
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 68
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1334
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1325
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1341
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 302
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1337
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1318
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1314
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1334
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1312
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -166
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1323
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1316
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1332
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1323
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -45
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1316
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 187
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1322
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1317
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1298
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -311
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1341
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1347
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1332
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1314
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1343
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1313
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1316
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 173
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1317
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1319
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1341
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1316
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1325
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1345
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1334
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 320
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1319
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+Reinforcement Learning Status:
+	Completed 500 test episodes
+	Average Rewards over testing: 1216.62
+	Average Rewards for last 100 episodes: 1205.55
+	Episode took 25.02 seconds
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1317
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1334
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1299
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1318
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1511
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1341
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1307
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1334
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1337
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1325
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1335
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1334
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 72
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1344
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1309
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1344
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1332
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1311
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1342
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -11
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1304
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1317
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1347
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1341
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1517
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -355
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1315
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1314
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1337
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1329
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1351
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1327
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1344
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1319
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1326
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1332
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1318
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1316
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1346
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1333
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1346
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1320
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1322
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1339
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 27
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1331
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1319
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1323
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1326
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -68
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1342
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1512
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1351
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1332
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1332
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 106
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1336
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1317
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1341
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1334
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1317
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1299
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1324
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 1
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -294
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1338
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1321
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1328
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1316
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1319
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1322
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: -221
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1340
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1342
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1348
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1330
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman died! Score: 153
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1350
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1345
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Pacman emerges victorious! Score: 1316
+Reinforcement Learning Status:
+	Completed 600 test episodes
+	Average Rewards over testing: 1210.41
+	Average Rewards for last 100 episodes: 1179.32
+	Episode took 24.53 seconds
+{'eats-food': 277.27944094946014, 'closest-food': -2.2469465423786352, 'bias': 217.12102262048595, '#-of-ghosts-1-step-away': -141.8400558092871}
+Average Score: 1210.40666667
+Scores:        1336.0, 1328.0, 1336.0, 1321.0, 1336.0, 1348.0, 1347.0, 1328.0, 1329.0, 1303.0, 1345.0, 1320.0, -93.0, 1329.0, 1342.0, 1333.0, 1316.0, 1333.0, 1327.0, 1317.0, 1319.0, 1333.0, 1332.0, 1325.0, 1331.0, 1316.0, 1333.0, 1322.0, 1344.0, 1331.0, 1337.0, 1342.0, 1537.0, 1325.0, 1336.0, 1344.0, -4.0, 1324.0, 1329.0, 1334.0, 1341.0, 1335.0, 1336.0, 1347.0, 1312.0, 1338.0, 1348.0, 1337.0, 1303.0, 1341.0, 1336.0, -321.0, 1326.0, 1340.0, 1327.0, 1307.0, 1332.0, 93.0, 1328.0, 1313.0, 1331.0, 1309.0, 1323.0, 1334.0, 1335.0, 1311.0, 1339.0, 1335.0, -123.0, 1333.0, 1342.0, 58.0, 1331.0, 307.0, 1312.0, 1331.0, 1316.0, 1341.0, 1315.0, 1331.0, 1321.0, 1305.0, 1310.0, 1330.0, 1329.0, -199.0, 268.0, 1327.0, 1315.0, 1308.0, 1343.0, 1324.0, 1326.0, 1320.0, 1332.0, 1348.0, 1336.0, 1322.0, 1291.0, 1317.0, 1342.0, 226.0, 307.0, 1340.0, 1321.0, 1338.0, 1327.0, 1337.0, 1318.0, 1308.0, 1522.0, 1337.0, 1322.0, 1312.0, 1327.0, 1322.0, 1331.0, 1334.0, 1338.0, 1328.0, 1311.0, 1324.0, 1323.0, 1318.0, 1337.0, 1320.0, 287.0, -171.0, 1320.0, 1332.0, 1333.0, 1340.0, 1322.0, 1330.0, 1328.0, 1324.0, 1322.0, 1332.0, 1331.0, 1314.0, 1331.0, 1347.0, 1530.0, 293.0, 1328.0, 1348.0, 1336.0, 1324.0, 1307.0, 1321.0, 1338.0, 1327.0, 1349.0, 1341.0, 1339.0, 1335.0, 1334.0, 1314.0, 1295.0, 1320.0, 1338.0, 1323.0, 1289.0, 1342.0, 1329.0, 1335.0, 1310.0, 1345.0, 1317.0, 1331.0, 1337.0, 1343.0, 24.0, 1338.0, 1319.0, 1328.0, 1333.0, 1340.0, 1315.0, 1338.0, 1325.0, 1329.0, 1328.0, 1325.0, 1327.0, 1327.0, 1308.0, 1328.0, 1327.0, 1322.0, 1334.0, 1347.0, 1520.0, 1337.0, 21.0, 1334.0, 1310.0, 1304.0, 1329.0, 1315.0, 1332.0, 1321.0, 1338.0, 1326.0, 1317.0, 1312.0, 1339.0, 1306.0, 1336.0, 1328.0, 1340.0, 1338.0, -204.0, 1327.0, 1325.0, 1343.0, -338.0, 1324.0, 1327.0, 1324.0, 1344.0, 1344.0, 1309.0, 1315.0, 1295.0, 1307.0, 1339.0, 1346.0, 1335.0, 1298.0, 1325.0, 1328.0, 1300.0, -52.0, 1330.0, 1329.0, 1328.0, 1517.0, 1319.0, 1341.0, 1322.0, 1301.0, 1338.0, 308.0, 1335.0, 1327.0, 1317.0, 1336.0, 1329.0, 1335.0, -156.0, 1305.0, 1308.0, 1322.0, 1332.0, 1343.0, 1331.0, 1342.0, 1327.0, 1312.0, 1340.0, 1340.0, 1323.0, 1348.0, 1333.0, 1341.0, 1315.0, 1298.0, 1336.0, 1336.0, 1536.0, 1326.0, 1313.0, 1333.0, 1346.0, 1314.0, 1330.0, 1329.0, 1338.0, 1324.0, 317.0, 1320.0, 1347.0, 1336.0, 1336.0, 1308.0, 1335.0, 1307.0, -354.0, 1336.0, 1340.0, 1521.0, 1318.0, 1335.0, 1339.0, 1288.0, 1353.0, 170.0, 1323.0, 1337.0, 1314.0, 1340.0, 1301.0, 1333.0, 1284.0, 1328.0, 1320.0, 1333.0, 1339.0, 1340.0, 1317.0, 1315.0, 1331.0, 1322.0, 1321.0, 1336.0, 1311.0, 1346.0, 1328.0, 1338.0, 1329.0, 1311.0, 1324.0, 1313.0, 1324.0, 1328.0, 1330.0, 1341.0, 1321.0, -340.0, 1325.0, 1319.0, 1342.0, 47.0, 1324.0, 1309.0, 1309.0, 1322.0, 1322.0, 1327.0, 1335.0, 1316.0, 1335.0, 1500.0, 1304.0, 1346.0, 1311.0, 1313.0, 1340.0, 1336.0, 1333.0, 1337.0, 1341.0, 1309.0, 1320.0, 1536.0, 1337.0, 228.0, 1312.0, 1326.0, 1323.0, 1309.0, 261.0, 271.0, 1331.0, 1328.0, 1337.0, 1330.0, -337.0, 1333.0, 1332.0, -160.0, 1503.0, 1320.0, 1318.0, 1507.0, 1320.0, 1332.0, -87.0, 1331.0, 1335.0, 1284.0, 1329.0, 1321.0, 1324.0, 1312.0, 1323.0, 1733.0, 1331.0, 1313.0, 315.0, 1337.0, 1335.0, 1338.0, 1336.0, 1321.0, 1545.0, -280.0, 1336.0, 29.0, -214.0, 1317.0, 1326.0, 1347.0, 1339.0, 1347.0, 1300.0, 1315.0, 1336.0, 1335.0, 1333.0, 1310.0, 1340.0, 1330.0, 1501.0, 1332.0, 1338.0, 1325.0, 1321.0, 1303.0, 1329.0, 1325.0, 1325.0, 1343.0, 199.0, 1325.0, 1339.0, 1310.0, 1319.0, 1526.0, 1321.0, 1337.0, 1333.0, 1339.0, 1328.0, 1342.0, 1534.0, 1325.0, 1329.0, 68.0, 1334.0, 1325.0, 1341.0, 302.0, 1337.0, 1318.0, 1314.0, 1334.0, 1312.0, -166.0, 1323.0, 1316.0, 1332.0, 1330.0, 1323.0, -45.0, 1316.0, 187.0, 1322.0, 1330.0, 1317.0, 1298.0, -311.0, 1341.0, 1338.0, 1347.0, 1324.0, 1327.0, 1327.0, 1321.0, 1327.0, 1321.0, 1332.0, 1333.0, 1329.0, 1329.0, 1314.0, 1330.0, 1343.0, 1313.0, 1316.0, 1330.0, 173.0, 1317.0, 1324.0, 1328.0, 1319.0, 1321.0, 1341.0, 1316.0, 1325.0, 1345.0, 1340.0, 1334.0, 320.0, 1330.0, 1336.0, 1330.0, 1319.0, 1329.0, 1317.0, 1334.0, 1299.0, 1318.0, 1511.0, 1329.0, 1341.0, 1307.0, 1334.0, 1337.0, 1325.0, 1335.0, 1334.0, 72.0, 1344.0, 1324.0, 1309.0, 1327.0, 1340.0, 1344.0, 1330.0, 1332.0, 1311.0, 1342.0, -11.0, 1304.0, 1317.0, 1347.0, 1330.0, 1341.0, 1517.0, 1324.0, -355.0, 1340.0, 1315.0, 1314.0, 1337.0, 1329.0, 1351.0, 1333.0, 1331.0, 1327.0, 1344.0, 1319.0, 1326.0, 1332.0, 1318.0, 1316.0, 1324.0, 1346.0, 1333.0, 1321.0, 1346.0, 1320.0, 1322.0, 1328.0, 1339.0, 1324.0, 1330.0, 1336.0, 27.0, 1340.0, 1331.0, 1336.0, 1319.0, 1323.0, 1326.0, -68.0, 1342.0, 1512.0, 1351.0, 1332.0, 1332.0, 106.0, 1336.0, 1317.0, 1341.0, 1334.0, 1317.0, 1299.0, 1324.0, 1.0, 1328.0, -338.0, -294.0, 1338.0, 1321.0, 1328.0, 1316.0, 1319.0, 1322.0, -221.0, 1340.0, 1342.0, 1348.0, 1330.0, 153.0, 1350.0, 1345.0, 1316.0
+Win Rate:      544/600 (0.91)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Loss, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Loss, Loss, Win, Win, Win, Win, Loss, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Loss, Win, Loss, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Loss, Win, Loss, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Win, Win, Win, Loss, Win, Loss, Loss, Win, Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win, Loss, Win, Win, Win

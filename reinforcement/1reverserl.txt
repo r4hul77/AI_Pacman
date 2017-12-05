@@ -1,0 +1,833 @@
+Beginning 0 episodes of Training
+Pacman died! Score: -323
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -596
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -838
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -530
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -217
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -171
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -123
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -130
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -289
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -926
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -143
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -447
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1640
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -52
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1596
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -122
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1718
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -426
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -373
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1128
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1079
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -539
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -574
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -131
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -275
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -74
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -198
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -507
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -436
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -182
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -534
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -339
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -271
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -113
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -222
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1262
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -328
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -863
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -266
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -958
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -95
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -202
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -896
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -261
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -36
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -640
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1512
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -830
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -269
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -279
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -378
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1086
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -482
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -674
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -3
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -141
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -607
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1015
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -472
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1732
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -2227
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -592
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -280
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -190
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -390
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -415
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -2037
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -511
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -208
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -338
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -503
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -450
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1640
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1658
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -287
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -466
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -189
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -788
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -279
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -387
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -523
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -352
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -365
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -396
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -308
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -141
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -142
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -957
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -830
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -172
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -289
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -525
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1513
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1495
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -163
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -230
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -2077
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1171
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1685
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1040
+Reinforcement Learning Status:
+	Completed 100 test episodes
+	Average Rewards over testing: -607.58
+	Average Rewards for last 100 episodes: -607.58
+	Episode took 152.64 seconds
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1042
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -447
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -431
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1700
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -588
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -562
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -53
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -534
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -723
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: 18
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -155
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -198
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -514
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -235
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -473
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -861
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -232
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -350
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -759
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -301
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -57
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -754
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -299
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -956
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1541
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -702
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -352
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -246
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -381
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -189
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -587
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -433
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -381
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -434
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1010
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -185
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -162
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -214
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -382
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -205
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -176
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -327
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -341
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -117
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1387
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -615
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -221
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -401
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -584
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -380
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -244
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -387
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -751
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -381
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -377
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -306
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -101
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1017
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -223
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -71
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: 124
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1449
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -257
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -2293
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -166
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -61
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -204
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -655
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -630
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -564
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -114
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -478
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -870
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -224
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -66
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -884
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -2879
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -626
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -410
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -745
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -402
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -356
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1175
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -833
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -412
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -214
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -252
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -843
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -209
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -86
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -579
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -289
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -271
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -346
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -761
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -537
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -354
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -382
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -915
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: 290
+Reinforcement Learning Status:
+	Completed 200 test episodes
+	Average Rewards over testing: -555.76
+	Average Rewards for last 100 episodes: -503.94
+	Episode took 129.44 seconds
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -364
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -216
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -573
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -824
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -238
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -419
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -136
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -408
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -189
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -681
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -488
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -2773
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -373
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -583
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -2176
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -3405
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -446
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -450
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -163
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -4492
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -768
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -74
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -149
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -266
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -627
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -223
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -185
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -469
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1291
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -694
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -359
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -740
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -184
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -948
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -249
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -815
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -239
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1972
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -261
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -568
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -599
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -320
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -471
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -169
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -192
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -366
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -251
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -125
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -685
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -836
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -511
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -672
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -842
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -502
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -361
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -582
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -324
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -561
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -508
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -46
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -437
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -234
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -644
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -706
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -869
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -197
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -301
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -348
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: 89
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1033
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -273
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -805
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -415
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -135
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: 39
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -22
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -338
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -148
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1322
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -155
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1998
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -530
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -190
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -78
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -982
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -192
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -309
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -160
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -48
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -108
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -940
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -348
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -214
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -271
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -405
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -364
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -23
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -103
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -538
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -419
+Reinforcement Learning Status:
+	Completed 300 test episodes
+	Average Rewards over testing: -556.76
+	Average Rewards for last 100 episodes: -558.75
+	Episode took 142.52 seconds
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1199
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -321
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -471
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -533
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -195
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -532
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -128
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -611
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -232
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -146
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -771
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -515
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -436
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -329
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -221
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -360
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -303
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -371
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -666
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -488
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -195
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -360
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -355
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: 189
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -881
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -162
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -907
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -390
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -183
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -207
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -416
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -139
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -535
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -67
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: 11
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -29
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -301
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -165
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -497
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -263
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -925
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -971
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -345
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -62
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -436
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -378
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: 183
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -508
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -381
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -501
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -97
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -174
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -153
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -353
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -230
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -289
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -127
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -650
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -560
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -320
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -342
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -299
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -351
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -495
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -87
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -251
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -609
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -560
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -244
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -889
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -323
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -402
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -303
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -149
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1043
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -2214
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -743
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -104
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -3324
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -337
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1762
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -490
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -369
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -188
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -491
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -207
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -783
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -332
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -299
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1488
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -306
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -162
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -341
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -443
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -376
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -1069
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -345
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -246
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -85
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -445
+Reinforcement Learning Status:
+	Completed 400 test episodes
+	Average Rewards over testing: -530.70
+	Average Rewards for last 100 episodes: -452.53
+	Episode took 147.58 seconds
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -308
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -191
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -470
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -311
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -100
+{'eats-food': 93.71130925736443, 'closest-food': 6.3498847535674905, 'bias': -249.16274957860318, '#-of-ghosts-1-step-away': -3819.322791452777}
+Pacman died! Score: -2242
+{'eats-fo

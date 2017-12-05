@@ -1,0 +1,24 @@
+        score=0.0
+        T=0
+        if(Foodnowlist==Foodlist):
+            score+=2500
+            if (len(Foodlist)==1):
+                score+=1/(sum(map(lambda x:manhattanDistance(x, newPos),Foodlist)))
+
+            else:
+                score+=len(Foodlist)/(sum(map(lambda x:manhattanDistance(x, newPos),Foodlist)))
+        for (i, gstate) in enumerate(newScaredTimes):
+            boole= gstate>0
+            score-=(manhattanDistance(newPos, newGhostStates[i].configuration.pos))*boole
+            if boole==0:
+                dist=(manhattanDistance(newPos, newGhostStates[i].configuration.pos))
+                if dist<2:
+                    if dist==0:
+                        dist=0.00001
+                    score+=500/dist
+                score+=dist
+        if score==0:
+            score=1
+        if successorGameState.getScore()<=0: return (successorGameState.getScore()*-score)*(score<0)+(successorGameState.getScore()*score)*(score>0)
+        if len(Foodlist)==0:return 9999
+        if score<0 :return(successorGameState.getScore()*-score)
